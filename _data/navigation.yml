@@ -1,6 +1,6 @@
 # Sample site navigation bar links
 
-- title: home
+- title: 2018 ELA
   url: /
 - title: posts
   url: /posts/
@@ -8,6 +8,8 @@
   url: /syllabus/
 - title: calendar
   url: /calendar/
+- title: assignments
+  url: /assignments/
 
 # - title: Categories
 #   url: /categories/

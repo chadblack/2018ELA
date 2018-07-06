@@ -87,9 +87,9 @@ defaults:
 
 # Site Author
 author:
-  name:
+  name: Chad Black
   picture:
-  email:
+  email: cblack6@utk.edu
   twitter: parezcoydigo
   links:
     - title:
@@ -101,3 +101,6 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+  - title: Twitter
+    url: http://twitter.com/parezcoydigo
+    icon: fas fa-twitter-square
