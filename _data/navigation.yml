@@ -3,11 +3,11 @@
 - title: home
   url: /
 - title: posts
-   url: /posts/
+  url: /posts/
 - title: syllabus
-   url: /syllabus/
+  url: /syllabus/
 - title: calendar
-   url: /calendar/
+  url: /calendar/
 
 # - title: Categories
 #   url: /categories/
