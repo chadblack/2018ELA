@@ -7,6 +7,8 @@ Introduction to Early Latin America
 
 History 255/LAS 251 
 
+TR 11:10-12:25
+
 Fall 2018
 
 **Prof. Chad Black**
