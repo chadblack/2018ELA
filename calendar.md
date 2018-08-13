@@ -19,16 +19,16 @@ title: calendar
 
 **READINGS:** 
 
-* Mann, Charles C. “1491” The Atlantic Monthly (March 2002).
-* Stix, Gary. “The Migration History of Humans: DNA Study Traces Human Origins across the Continents.” Scientific American Magazine (July 2008).
+* Mann, Charles C. "1491" The Atlantic Monthly (March 2002).
+* Stix, Gary. "The Migration History of Humans: DNA Study Traces Human Origins across the Continents." Scientific American Magazine (July 2008).
 
 ### August 30 (Thursday) -- Maya
 
 **READINGS:**
 
 * Restall and Lane, Chapter 1.
-* Thompson, J. Eric. “The Meaning of Maize for the Maya.” in Gilbert M. Joseph and Timothy J. Henderson, eds., The Mexico Reader: History, Culture, Politics (Durham: Duke University Press, 2002), pp. 86-91.
-* Anonymous. “The Popul Vuh.” In Joseph and Henderson, eds., The Mexico Reader, pp. 79-85.
+* Thompson, J. Eric. "The Meaning of Maize for the Maya." in Gilbert M. Joseph and Timothy J. Henderson, eds., The Mexico Reader: History, Culture, Politics (Durham: Duke University Press, 2002), pp. 86-91.
+* Anonymous. "The Popul Vuh." In Joseph and Henderson, eds., The Mexico Reader, pp. 79-85.
 
 ---
 
@@ -38,9 +38,20 @@ title: calendar
 
 **READINGS:**
 
+* Inga Clendinnen, "The Costs of Courage in Aztec society," pp. 61-78 in The Mexico Reader.
+
+* Burkhardt, Louise M. "Mexica Women on the Home Front: Housework and Religion in Aztec Mexico" in Schroeder, Susan et al. Indian Women of Early Mexico, (Norman: University of Oklahoma Press, 1997), pp. 25-54.
+
 ### September 6 (Thursday) -- Inka
 
 **READINGS:**
+
+* Murra, John. "Cloth, Textile, and the Inca Empire," in Starn, et. al.
+eds., *The Peru Reader* (Durham: Duke University Press, 1995): 55-69.
+
+* Mary Strong, Art, Nature, and Religion in the Central Andes (Austin:
+Univ. of Texas Press, 2012): pp. 17-58.
+
 
 ---
 
@@ -51,6 +62,16 @@ title: calendar
 **READINGS:**
 
 * Restall and Lane, Chapter 
+
+* "Ibn Abd-el-Hakem: The Islamic Conquest of Spain."
+
+* "Las Siete Partidas: Laws on Jews."
+
+* "King Ferdinand, Marriage Concessions (1469)" in Jon Cowans, ed. Early Modern Spain: A Documentary History (Philadelphia: University of Pennsylvania Press, 2003): 7-9.
+
+* "Surrender Treaty of the Kingdom of Granada (1491)" in Cowans, Early Modern Spain: 15-19.
+
+* "Decree of Expulsion of the Jews (1492)" in Cowans, Early Modern Spain: 20-23.
 
 ### September 13 (Thursday) -- Atlantic Africa
 
@@ -69,11 +90,25 @@ title: calendar
 
 * Restall and Lane, Chapter 
 
+* Christopher Columbus’s Log, excerpted in English. Focus on period after Oct. 11.
+
+* The Requerimiento
+
+
+
 ### September 20 (Thursday) -- The Critique
 
 **READINGS:**
 
 * Bartolomé de Las Casas, Brief Account of the Devastation of the Indies, excerpt.
+
+* Antonio Montesinos, "Advent Sermon"
+
+* "The Relación of Fray Ramón Pane (c. 1494-1496)"
+
+* "The Laws of Burgos. 1512-1513"
+
+
 
 
 ---
@@ -85,8 +120,10 @@ title: calendar
 **READINGS:**
 
 * Restall and Lane, Chapter
+
 * Matthew Restall, et. al., Mesoamerican Voices: Native-Language Writings from Colonial Mexico, Oaxaca, Yucatan, and Guatemala (Cambridge: 2005): Chapter 3.
-* “The Spaniards’ Entry into Tenochtitlan,” The Mexico Reader, 97-104.
+
+* "The Spaniards’ Entry into Tenochtitlan," The Mexico Reader, 97-104.
 
 ### September 27 (Thursday) -- Conquest Myths and Realities II
 
@@ -94,7 +131,9 @@ title: calendar
 
 * Lockhart and Otte, Letters and People of the Spanish Indies: 16th Century
 (Cambridge Univ. Press, 1976), selections.
-* 
+
+*  Patricia Seed, "Failing to Marvel: Atahualpa’s Encounter with the Word,"
+Latin American Research Review 26.1 (1991): 7-32.
 
 ---
 
@@ -103,6 +142,8 @@ title: calendar
 ### October 2 (Tuesday)
 
 **READINGS:**
+
+* Exam review sheet.
 
 ### October 4 (Thursday)
 
@@ -116,13 +157,13 @@ title: calendar
 
 **READINGS:**
 
-* “Orders Given to the Twelve (1523)” in Mills, Taylor, and Graham Colonial Latin America: A Documentary History,” (SR Books, 2004): 59-64.
+* "Orders Given to the Twelve (1523)" in Mills, Taylor, and Graham Colonial Latin America: A Documentary History," (SR Books, 2004): 59-64.
 
 ### October 11 (Thursday)
 
 **READINGS:**
 
-* J. Michael Francis. “In the Service of God, I Order these Temples of Idolatrous Worship Razed to the Ground”: Extirpation of Idolatry and the Search for the Santuario Grande of Iguaque (Columbia, 1595)” in Colonial Lives, pp. 39-53.
+* J. Michael Francis. "In the Service of God, I Order these Temples of Idolatrous Worship Razed to the Ground": Extirpation of Idolatry and the Search for the Santuario Grande of Iguaque (Columbia, 1595)" in Colonial Lives, pp. 39-53.
 
 ---
 
@@ -134,10 +175,15 @@ title: calendar
 
 * Restall and Lane, Chapter 
 
+* Suzanne Alchon, "Colonialism, Disease, and the Spanish Conquest of the Carribbean, Mesoamerica, and the Central Andes," in A Pest in the Land: New World Epidemics in a Global Perspective (Univ. of NM Press, 2003): 60-82.
 
 ### October 18 (Thursday)
 
 **READINGS:**
+
+* "The New Laws"
+
+J.L Phelan, "Authority and Flexibility in the Spanish Imperial Bureaucracy" Administrative Science Quarterly, Vol. 5, No. 1, Special Issue on Comparative Public Administration. (Jun., 1960), pp. 47-65. 
 
 ---
 
@@ -149,10 +195,14 @@ title: calendar
 
 * Restall and Lane, Chapter 
 
+* Kris Lane, "Captivity and Redemption: Aspects of Slave Life in early Colonial Quito and Popoyan," The Americas 57.2 (2000), 225-246.
+
 
 ### October 25 (Thursday)
 
 **READINGS:**
+
+* Jane Landers, "Felipe Edimboro Sues for Manumission, Don Francisco Xavier Sánchez contests (Florida, 1794)," in Colonial Lives, pp. 249-268.
 
 ---
 
@@ -164,10 +214,14 @@ title: calendar
 
 * Restall and Lane, Chapter 
 
+* Ward Stavig, The World of Túpac Amaru, Ch. 6. 
+
 
 ### November 1 (Thursday)
 
 **READINGS:**
+
+* Woodrow Borah, "The Indians of Tejupan Want to Raise Silk on Their Own," Colonial Lives, 6-10.
 
 ---
 
@@ -179,10 +233,16 @@ title: calendar
 
 * Restall and Lane, Chapter 
 
+* Patricia Seed, "Marriage Promises and the Value of a Woman’s Testimony in Colonial Mexico," Signs 13.2 (Winter, 1988): 146-152.
+
 
 ### November 8 (Thursday)
 
 **READINGS:**
+
+* Lavrin, Asunción. "Sexuality in Colonial Mexico: A Church Dilemma." Pp. 47-95 in, Sexuality and Marriage in Colonial Latin America. Lavrin, ed. Lincoln: Univ. of Nebraska Press, 1992.
+
+* Richard Boyer, "Catarina María Complains that Juan Teoia Forcibly Deflowered Her (Mexico, 1693)" in Colonial Lives: 155-165.
 
 ---
 
@@ -192,9 +252,15 @@ title: calendar
 
 **READINGS:**
 
+* Ruth Behar, "Sexual Witchcraft, Colonialism, and Women's Powers," in Sexuality and Marriage in Colonial Latin America. Lavrin, ed. Lincoln: Univ. of Nebraska Press, 1992.
+
+
 ### November 15 (Thursday)
 
 **READINGS:**
+
+* TBD.
+
 
 ---
 
@@ -205,6 +271,8 @@ title: calendar
 **READINGS:**
 
 * Restall and Lane, Chapter 
+
+* "José de Gálvez’s Decrees for the King’s Subjects in Mexico (1769, 1778)" in Mills, et. al., Colonial Latin America, pp. 270-273.
 
 
 ### November 22 (Thursday)
@@ -223,10 +291,16 @@ None! Have a great Thanksgiving!
 
 * Restall and Lane, Chapter 
 
+* Elizabeth Penry, "Letters of Insurrection: The Rebellion of the Communities (Charcas, 1781)" in Colonial Lives: 201-215.
+
+
 
 ### November 29 (Thursday)
 
 **READINGS:**
+
+* David T. Garrett, "His Majesty’s Most Loyal Vassals": The Indian Nobility and Túpac Amaru," Hispanic American Historical Review, 84:4 (2004): 575-617. (Available through the library website.)
+
 
 ---
 
@@ -236,6 +310,7 @@ None! Have a great Thanksgiving!
 
 **READINGS:**
 
+* Restall and Lane, Chatper
 
 ---
 
