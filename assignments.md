@@ -12,7 +12,7 @@ to one of the day's readings. These will also be used to track attendance.
 periods.
 
 3. La Otra Conquista Critique. (25%) October 23. Students will write a formal essay
-critiquing the filme *La Otra Conquista*. 
+critiquing the filme *La Otra Conquista*. Students will use assigned readings to critique the film.
 
 4. Exam 2. (25%) December 11. This exam will cover the maturation and
 dissolution of the Spanish and Portuguese Empires in the Americas.
