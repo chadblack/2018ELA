@@ -61,7 +61,7 @@ Univ. of Texas Press, 2012): pp. 17-58.
 
 **READINGS:**
 
-* Restall and Lane, Chapter 
+* Restall and Lane, Chapter 2.
 
 * "Ibn Abd-el-Hakem: The Islamic Conquest of Spain."
 
@@ -77,7 +77,7 @@ Univ. of Texas Press, 2012): pp. 17-58.
 
 **READINGS:**
 
-* Restall and Lane, Chapter 
+* Restall and Lane, Chapter 3.
 
 
 ---
@@ -88,7 +88,7 @@ Univ. of Texas Press, 2012): pp. 17-58.
 
 **READINGS:**
 
-* Restall and Lane, Chapter 
+* Restall and Lane, Chapter 4.
 
 * Christopher Columbus’s Log, excerpted in English. Focus on period after Oct. 11.
 
@@ -119,7 +119,7 @@ Univ. of Texas Press, 2012): pp. 17-58.
 
 **READINGS:**
 
-* Restall and Lane, Chapter
+* Restall and Lane, Chapter 5.
 
 * Matthew Restall, et. al., Mesoamerican Voices: Native-Language Writings from Colonial Mexico, Oaxaca, Yucatan, and Guatemala (Cambridge: 2005): Chapter 3.
 
@@ -129,8 +129,7 @@ Univ. of Texas Press, 2012): pp. 17-58.
 
 **READINGS:**
 
-* Lockhart and Otte, Letters and People of the Spanish Indies: 16th Century
-(Cambridge Univ. Press, 1976), selections.
+* Restall and Lane, Chapter 6-7.
 
 *  Patricia Seed, "Failing to Marvel: Atahualpa’s Encounter with the Word,"
 Latin American Research Review 26.1 (1991): 7-32.
@@ -157,6 +156,8 @@ Latin American Research Review 26.1 (1991): 7-32.
 
 **READINGS:**
 
+* Restall and Lane, Chapter 10.
+
 * "Orders Given to the Twelve (1523)" in Mills, Taylor, and Graham Colonial Latin America: A Documentary History," (SR Books, 2004): 59-64.
 
 ### October 11 (Thursday)
@@ -173,7 +174,7 @@ Latin American Research Review 26.1 (1991): 7-32.
 
 **READINGS:**
 
-* Restall and Lane, Chapter 
+* Restall and Lane, Chapter 8.
 
 * Suzanne Alchon, "Colonialism, Disease, and the Spanish Conquest of the Carribbean, Mesoamerica, and the Central Andes," in A Pest in the Land: New World Epidemics in a Global Perspective (Univ. of NM Press, 2003): 60-82.
 
@@ -193,7 +194,7 @@ J.L Phelan, "Authority and Flexibility in the Spanish Imperial Bureaucracy" Admi
 
 **READINGS:**
 
-* Restall and Lane, Chapter 
+* Restall and Lane, Chapter 9.
 
 * Kris Lane, "Captivity and Redemption: Aspects of Slave Life in early Colonial Quito and Popoyan," The Americas 57.2 (2000), 225-246.
 
@@ -212,7 +213,7 @@ J.L Phelan, "Authority and Flexibility in the Spanish Imperial Bureaucracy" Admi
 
 **READINGS:**
 
-* Restall and Lane, Chapter 
+* Restall and Lane, Chapter 12.
 
 * Ward Stavig, The World of Túpac Amaru, Ch. 6. 
 
@@ -231,7 +232,7 @@ J.L Phelan, "Authority and Flexibility in the Spanish Imperial Bureaucracy" Admi
 
 **READINGS:**
 
-* Restall and Lane, Chapter 
+* Restall and Lane, Chapter 11.
 
 * Patricia Seed, "Marriage Promises and the Value of a Woman’s Testimony in Colonial Mexico," Signs 13.2 (Winter, 1988): 146-152.
 
@@ -270,7 +271,7 @@ J.L Phelan, "Authority and Flexibility in the Spanish Imperial Bureaucracy" Admi
 
 **READINGS:**
 
-* Restall and Lane, Chapter 
+* Restall and Lane, Chapter 13.
 
 * "José de Gálvez’s Decrees for the King’s Subjects in Mexico (1769, 1778)" in Mills, et. al., Colonial Latin America, pp. 270-273.
 
@@ -289,7 +290,7 @@ None! Have a great Thanksgiving!
 
 **READINGS:**
 
-* Restall and Lane, Chapter 
+* Restall and Lane, Chapter 14.
 
 * Elizabeth Penry, "Letters of Insurrection: The Rebellion of the Communities (Charcas, 1781)" in Colonial Lives: 201-215.
 
@@ -310,7 +311,7 @@ None! Have a great Thanksgiving!
 
 **READINGS:**
 
-* Restall and Lane, Chatper
+* Restall and Lane, Chapter 15.
 
 ---
 
