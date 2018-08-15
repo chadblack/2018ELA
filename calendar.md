@@ -110,7 +110,6 @@ Univ. of Texas Press, 2012): pp. 17-58.
 
 
 
-
 ---
 
 ## Week 6: Conquest of Native Empires
@@ -226,9 +225,17 @@ J.L Phelan, "Authority and Flexibility in the Spanish Imperial Bureaucracy" Admi
 
 ---
 
-## Week 12: Gender and Sexuality I
+## Week 12: No class! I will be in London for a conference.
 
 ### November 6 (Tuesday)
+
+### November 8 (Thursday)
+
+---
+
+## Week 13: Gender and Sexuality  
+
+### November 13 (Tuesday)
 
 **READINGS:**
 
@@ -237,30 +244,13 @@ J.L Phelan, "Authority and Flexibility in the Spanish Imperial Bureaucracy" Admi
 * Patricia Seed, "Marriage Promises and the Value of a Woman’s Testimony in Colonial Mexico," Signs 13.2 (Winter, 1988): 146-152.
 
 
-### November 8 (Thursday)
-
-**READINGS:**
-
-* Lavrin, Asunción. "Sexuality in Colonial Mexico: A Church Dilemma." Pp. 47-95 in, Sexuality and Marriage in Colonial Latin America. Lavrin, ed. Lincoln: Univ. of Nebraska Press, 1992.
-
-* Richard Boyer, "Catarina María Complains that Juan Teoia Forcibly Deflowered Her (Mexico, 1693)" in Colonial Lives: 155-165.
-
----
-
-## Week 13: Gender and Sexuality II 
-
-### November 13 (Tuesday)
+### November 15 (Thursday)
 
 **READINGS:**
 
 * Ruth Behar, "Sexual Witchcraft, Colonialism, and Women's Powers," in Sexuality and Marriage in Colonial Latin America. Lavrin, ed. Lincoln: Univ. of Nebraska Press, 1992.
 
-
-### November 15 (Thursday)
-
-**READINGS:**
-
-* TBD.
+* Richard Boyer, "Catarina María Complains that Juan Teoia Forcibly Deflowered Her (Mexico, 1693)" in Colonial Lives: 155-165.
 
 
 ---
