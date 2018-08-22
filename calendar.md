@@ -63,8 +63,6 @@ Univ. of Texas Press, 2012): pp. 17-58.
 
 * Restall and Lane, Chapter 2.
 
-* "Ibn Abd-el-Hakem: The Islamic Conquest of Spain."
-
 * "Las Siete Partidas: Laws on Jews."
 
 * "King Ferdinand, Marriage Concessions (1469)" in Jon Cowans, ed. Early Modern Spain: A Documentary History (Philadelphia: University of Pennsylvania Press, 2003): 7-9.

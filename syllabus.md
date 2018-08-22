@@ -21,6 +21,9 @@ Fall 2018
 
 **Office Hours:** Tuesday, 4:00-5:00, Wednesday, 3:00-4:00
 
+**TA Info:** Daniel Rundberg (jrundber@vols.utk.edu). Office Hours,
+Tuesdays from 12:30-2:30. Dunford Hall 2524 (5th Floor).
+
 In 1492, Columbus sailed the ocean blue and discovered or destroyed, conquered
 or civilized the Americas. Sixty years later, in 1552, López de Gómara, the
 private secretary of Hernán Cortes, wrote, "The greatest event since the
