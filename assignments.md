@@ -11,7 +11,7 @@ to one of the day's readings. These will also be used to track attendance.
 2. Exam 1. (25%) October 2nd. This exam will cover the preconquest and conquest
 periods.
 
-3. La Otra Conquista Critique. (25%) October 23. Students will write a formal essay
+3. La Otra Conquista Critique. (25%) October 30. Students will write a formal essay
 critiquing the film *La Otra Conquista*. Students will use assigned
 readings to critique the film. The instructions are available
 [here](images/filmReview.docx).
