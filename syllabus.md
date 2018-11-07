@@ -77,7 +77,8 @@ established by the professor. Late papers will not be accepted
 for any reason without prior arrangement. This includes technology problems.
 
 **Cell Phones and Laptops:** Please silence our cell phones prior to class.
-Please do not text during class. Laptops are allowed only for tasks
+Please do not text during class. Cell phones are not permitted in class, and
+need to be put away for the duration of our meetings. Laptops are allowed only for tasks
 related to this class. Distracting use of technology (social media,
 surfing, etc.) causes problems not only for your own learning, but for
 those around you. Research shows that analog notetaking improves learning.
